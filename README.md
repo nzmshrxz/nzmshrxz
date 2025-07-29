@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👨‍💻I am Nazam Shiraz
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This+is+Nazam+Shiraz!;)](https://git.io/typing-svg)
 
 **Software Engineer | MERN Full Stack Developer**  
 Building modern web apps using **React**, **Express**, **MongoDB**, and **Node.js**
