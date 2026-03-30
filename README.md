@@ -13,7 +13,7 @@ Building modern web apps using **React**, **Express**, **MongoDB**, and **Node.j
 
 ### 🔗 More About Me
 
-👉 Visit my portfolio: [nazam.netlify.app](https://nazam.netlify.app/)  
+👉 Visit my portfolio: [nazam.netlify.app](https://nazamshiraz.vercel.app/)  
 👉 Follow me on [LinkedIn](https://www.linkedin.com/in/nazam-shiraz-76081425a/)
 
 
